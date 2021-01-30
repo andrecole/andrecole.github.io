@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Hey - I'm Andre Cole
 
-You can use the [editor on GitHub](https://github.com/andrecole/andrecole.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I love to dance and I teach an outdoor class on the UC Berkeley campus you should come just email me dre@andrecole.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Check out some of my old classes
 
-### Markdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tVtk2oDDjac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rKsa1EvUW5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EDT0J6vqjNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5sUSsZhiYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
+## Here is a bit more about me
 
-1. Numbered
-2. List
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
+blah blah blah blah blah l=blah
 
-**Bold** and _Italic_ and `Code` text
+## Taking public transit?
+Check out a walkthrough
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfexhlnEWuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrecole/andrecole.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
