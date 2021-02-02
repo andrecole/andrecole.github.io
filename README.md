@@ -17,14 +17,7 @@ I love to dance and I teach an outdoor class on the UC Berkeley campus you shoul
 
 ## Here is a bit more about me
 
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
-blah blah blah blah blah l=blah
+Life long dancer trained in hip hop street styles including Bay Area's own turfin and more. Also classically trained in contemporary-ballet, jazz, modern. 
 
 ## Taking public transit?
 Check out a walkthrough
